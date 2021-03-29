@@ -1,0 +1,7 @@
+download.windowsupdate.com	-w7 xp
+update.microsoft.com	- w7 xp
+sls.update.microsoft.com.akadns.net	- w8.1
+vortex.data.microsoft.com	- w8.1
+vortex-win.data.microsoft.com	- w8.1
+fe2.update.microsoft.com.akadns.net	- w8.1
+statsfe2.update.microsoft.com.akadns.net	-w8.1 not required at the moment ?
