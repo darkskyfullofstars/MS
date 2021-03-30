@@ -983,3 +983,8 @@ s.gateway.messenger.live.com
 127.0.0.1 watson.microsoft.com
 127.0.0.1 bingads.microsoft.com
 127.0.0.1 www.bingads.microsoft.com
+watson.telemetry.microsoft.com
+settings-win.data.microsoft.com
+telemetry.microsoft.com
+telemetry.microsoft.com.nsatc.net
+telemetry.urs.microsoft.com
