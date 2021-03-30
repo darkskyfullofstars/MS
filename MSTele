@@ -1149,3 +1149,8 @@ store.microsoftonline.gerald-pilcher.com
 store.outlook-microsoft.net
 storeinsidermicrosoft.com
 storeofmicrosoft.com
+127.0.0.1 bingads.microsoft.com
+127.0.0.1 advertise.bingads.microsoft.com
+127.0.0.1 mobile.events.data.microsoft.com
+127.0.0.1 self.events.data.microsoft.com
+127.0.0.1 vortex.data.microsoft.com
