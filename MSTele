@@ -1,3 +1,10 @@
+#nsatc.net
+127.0.0.1 choice.microsoft.com.nsatc.net
+127.0.0.1 i1.services.social.microsoft.com.nsatc.net
+127.0.0.1 oca.telemetry.microsoft.com.nsatc.net
+127.0.0.1 sqm.telemetry.microsoft.com.nsatc.net
+127.0.0.1 telecommand.telemetry.microsoft.com.nsatc.net
+127.0.0.1 watson.telemetry.microsoft.com.nsatc.net
 127.0.0.1 diagnostics.support.microsoft.com
 127.0.0.1 survey.watson.microsoft.com
 127.0.0.1 watson.microsoft.com
